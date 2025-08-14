@@ -32,13 +32,13 @@ O projeto segue o padrão MVVM (Model-View-ViewModel):
 ![Tela Principal](./ScreenShots/TelaPrincipal.png)
 
 ### Adicionando um Novo Cliente
-![Adicionar Cliente](./ScreenShots/TelaAdicao.png)
+![Adicionar Cliente](./ScreenShots/TelaEdicao.png)
 
 ### Editando um Cliente
 ![Editar Cliente](./ScreenShots/TelaPrincipalAlterado.png)
 
 ### Confirmação de Exclusão de Cliente
-![Excluir Cliente](./ScreenShots/TelaPrincipalExcludoCliente.png)
+![Excluir Cliente](./ScreenShots/TelaPrincipalExcluidoCliente.png)
 
 
 ## 📁 Estrutura do Projeto
